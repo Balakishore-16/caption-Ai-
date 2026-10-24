@@ -1,0 +1,15 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Liberation Sans,62,&H00FFFFFF&,&H00FFFFFF&,&H00000000&,&Hff000000&,-1,0,0,0,100,100,0,0,1,7,0,2,80,80,280,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.20,0:00:02.20,Default,,0,0,0,,{\c&H0015CCFA&}bro{\c&H00FFFFFF&} idhi oka manchi {\c&H0015CCFA&}opportunity.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:02.30,0:00:04.40,Default,,0,0,0,,{\c&H0015CCFA&}freshers{\c&H00FFFFFF&} kuda {\c&H0015CCFA&}apply{\c&H00FFFFFF&} cheskovachu.
+Dialogue: 0,0:00:04.50,0:00:07.00,Default,,0,0,0,,{\c&H0015CCFA&}fast{\c&H00FFFFFF&} ga {\c&H0015CCFA&}apply{\c&H00FFFFFF&} cheskondi.

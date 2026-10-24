@@ -1,0 +1,6 @@
+{
+  "name": "Capzen",
+  "description": "Capzen — Professional AI Auto-Captions & Video Editor for Reels, Shorts & TikTok with trending styles, bilingual code-switching, and ultra-fast preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
